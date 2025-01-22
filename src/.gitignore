@@ -1,0 +1,4 @@
+.vscode
+.streamlit
+key.json
+frontend/backend/.env
